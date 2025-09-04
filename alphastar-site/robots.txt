@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sirpseudocode.github.io/Kas-Alphastar/sitemap.xml
